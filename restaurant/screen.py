@@ -1,7 +1,6 @@
 import os
 from restaurant.management import add_item_to_tab, get_item
 
-
 TABLE_TAB=[]
 
 def initial_screen ():
